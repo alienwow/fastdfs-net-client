@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastDFS.Client", "FastDFS.Client\FastDFS.Client.csproj", "{311D8B39-41F4-42AF-A47A-BD8AFF470398}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastDFS.Web", "FastDFS.Web\FastDFS.Web.csproj", "{BA5D1803-3826-4DF2-955A-40A703EA2B40}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{311D8B39-41F4-42AF-A47A-BD8AFF470398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311D8B39-41F4-42AF-A47A-BD8AFF470398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311D8B39-41F4-42AF-A47A-BD8AFF470398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311D8B39-41F4-42AF-A47A-BD8AFF470398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5D1803-3826-4DF2-955A-40A703EA2B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5D1803-3826-4DF2-955A-40A703EA2B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5D1803-3826-4DF2-955A-40A703EA2B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5D1803-3826-4DF2-955A-40A703EA2B40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
