@@ -1,0 +1,15 @@
+2010-01-29 21:14:29,633 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Service.FastDFSService | 信息: FastDFS使用默认配置文件启动，默认配置文件路径为config/FastDFS.config!
+2010-01-29 21:14:29,651 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Service.FastDFSService | 信息: 停止FastDFS客户端服务，当前的生成批次为634003964696504627!
+2010-01-29 21:14:29,670 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Core.Pool.Support.ObjectPool`1 | 信息: 对象池已经创建，对象池长度为：30
+2010-01-29 21:14:29,673 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Core.Pool.Support.ObjectPool`1 | 信息: 对象池已经创建，对象池长度为：70
+2010-01-29 21:14:29,673 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Service.FastDFSService | 信息: FastDFS客户端服务启动成功!
+2010-01-29 21:14:29,673 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Web.Global | 信息: 应用程序启动！
+2010-01-29 21:14:33,985 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Web._Default | 信息: 上传文件的大小为：23028字节！
+2010-01-29 21:14:35,415 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Component.TrackerClient | 信息: Tracker可用连接数：30
+2010-01-29 21:14:48,710 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Core.Pool.Support.ObjectPool`1 | 信息: 连接池状态：现在空闲对象长度为:22,忙碌对象长度为1.
+2010-01-29 21:14:48,710 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Component.TrackerClient | 信息: 连接Tracker服务器的IP是：192.168.135.9,端口是22122
+2010-01-29 21:14:48,744 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Core.Pool.Support.ObjectPool`1 | 信息: 连接对象使用完毕，准备放回连接池！
+2010-01-29 21:14:48,744 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Core.Pool.Support.ObjectPool`1 | 信息: 连接对象使用完毕，放回连接池！
+2010-01-29 21:15:01,770 | 线程:[3] | 级别:INFO  | 对象:FastDFS.Client.Service.FastDFSService | 信息: 停止FastDFS客户端服务，当前的生成批次为634003964696504627!
+2010-01-29 21:15:01,770 | 线程:[3] | 级别:INFO  | 对象:FastDFS.Client.Service.FastDFSService | 信息: 停止FastDFS客户端服务，并清除连接池!
+2010-01-29 21:15:01,770 | 线程:[3] | 级别:INFO  | 对象:FastDFS.Web.Global | 信息: 关闭应用程序！

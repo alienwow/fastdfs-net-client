@@ -1,0 +1,9 @@
+2010-02-02 23:44:21,138 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Service.FastDFSService | 信息: FastDFS使用默认配置文件启动，默认配置文件路径为config/FastDFS.config!
+2010-02-02 23:44:21,153 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Service.FastDFSService | 信息: 停止FastDFS客户端服务，当前的生成批次为634007510611539048!
+2010-02-02 23:44:21,185 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Core.Pool.Support.ObjectPool`1 | 信息: 对象池已经创建，对象池长度为：30
+2010-02-02 23:44:21,185 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Core.Pool.Support.ObjectPool`1 | 信息: 对象池已经创建，对象池长度为：70
+2010-02-02 23:44:21,185 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Service.FastDFSService | 信息: FastDFS客户端服务启动成功!
+2010-02-02 23:44:21,185 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Web.Global | 信息: 应用程序启动！
+2010-02-02 23:44:33,446 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Web._Default | 信息: 上传文件的大小为：96944字节！
+2010-02-02 23:44:33,462 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Component.StorageClient | 信息: 开始批量上传文件，批量上传文件的总数为:5.
+2010-02-02 23:44:33,462 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Component.TrackerClient | 信息: Tracker可用连接数：30

@@ -1,0 +1,8 @@
+2010-02-02 15:11:28,954 | 线程:[8] | 级别:ERROR | 对象:FastDFS.Client.Component.Util | 信息: 服务器接收的命令不符合协议规定。接收协议为:0,期望协议为:10
+2010-02-02 15:11:28,982 | 线程:[8] | 级别:ERROR | 对象:FastDFS.Web._Default | 信息: <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>测试文件上传速度时发生异常：{0}服务器接收的命令不符合协议规定。接收协议为:0,期望协议为:10</format><args>{}</args></log4net.Error>
+2010-02-02 15:12:50,607 | 线程:[8] | 级别:ERROR | 对象:FastDFS.Client.Component.Util | 信息: 服务器接收的命令不符合协议规定。接收协议为:0,期望协议为:10
+2010-02-02 15:12:50,615 | 线程:[8] | 级别:ERROR | 对象:FastDFS.Web._Default | 信息: <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>测试文件上传速度时发生异常：{0}服务器接收的命令不符合协议规定。接收协议为:0,期望协议为:10</format><args>{}</args></log4net.Error>
+2010-02-02 15:15:45,443 | 线程:[8] | 级别:ERROR | 对象:FastDFS.Client.Component.Util | 信息: 服务器接收的命令不符合协议规定。接收协议为:0,期望协议为:10
+2010-02-02 15:15:57,491 | 线程:[8] | 级别:ERROR | 对象:FastDFS.Web._Default | 信息: <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>测试文件上传速度时发生异常：{0}服务器接收的命令不符合协议规定。接收协议为:0,期望协议为:10</format><args>{}</args></log4net.Error>
+2010-02-02 15:16:08,425 | 线程:[8] | 级别:ERROR | 对象:FastDFS.Client.Component.StorageClient | 信息: 文件扩展名为空，终止文件上传。
+2010-02-02 15:16:08,432 | 线程:[8] | 级别:ERROR | 对象:FastDFS.Web._Default | 信息: <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>测试文件上传速度时发生异常：{0}未获得文件扩展名。</format><args>{}</args></log4net.Error>
