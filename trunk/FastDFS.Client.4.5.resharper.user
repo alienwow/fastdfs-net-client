@@ -1,0 +1,79 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BA5D1803-3826-4DF2-955A-40A703EA2B40/f:Default.aspx" caret="922" fromTop="12" />
+      <File id="BA5D1803-3826-4DF2-955A-40A703EA2B40/f:Tooklit.cs" caret="586" fromTop="23" />
+      <File id="BA5D1803-3826-4DF2-955A-40A703EA2B40/d:config/f:log4net.config" caret="969" fromTop="23" />
+      <File id="BA5D1803-3826-4DF2-955A-40A703EA2B40/f:Default.aspx.cs" caret="812" fromTop="28" />
+      <File id="BA5D1803-3826-4DF2-955A-40A703EA2B40/d:config/f:FastDFS.config" caret="47" fromTop="2" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:StorageServerInfo.cs" caret="1251" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:TcpConnection.cs" caret="1286" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:TcpConnectionFactory.cs" caret="1257" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:TcpConnectionPoolManager.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:TrackerClient.cs" caret="1379" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:Util.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:StorageClient.cs" caret="15488" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:config/f:log4net.config" caret="375" fromTop="9" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:config/f:FastDFS.config" caret="970" fromTop="10" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Properties/f:AssemblyInfo.cs" caret="1262" fromTop="28" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/f:COPYING-3_0.txt" caret="734" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Service/f:FastDFSClient.cs" caret="1215" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Service/f:FastDFSService.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/f:ConfigReader.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/d:Threading/f:ThreadContext.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/d:Pool/f:IPoolableObjectFactory.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/d:Pool/f:IObjectPool.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/d:Pool/d:Support/f:ObjectPool.cs" caret="7874" fromTop="43" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:HeaderInfo.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:NameValuePair.cs" caret="920" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:PackageInfo.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:Protocol.cs" caret="1649" fromTop="26" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:TcpConnectionFactory.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:TcpConnectionFactory.cs" caret="918" fromTop="7" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:TcpConnectionPoolManager.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:TcpConnectionPoolManager.cs" caret="918" fromTop="7" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:TrackerClient.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:TrackerClient.cs" caret="918" fromTop="7" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:Util.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:Util.cs" caret="918" fromTop="7" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Service/f:FastDFSService.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Service/f:FastDFSService.cs" caret="918" fromTop="7" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Service/f:FastDFSClient.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Service/f:FastDFSClient.cs" caret="918" fromTop="7" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/f:ConfigReader.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/f:ConfigReader.cs" caret="918" fromTop="7" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/d:Threading/f:ThreadContext.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/d:Threading/f:ThreadContext.cs" caret="918" fromTop="7" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/d:Pool/f:IPoolableObjectFactory.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/d:Pool/f:IPoolableObjectFactory.cs" caret="918" fromTop="7" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/d:Pool/f:IObjectPool.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/d:Pool/f:IObjectPool.cs" caret="918" fromTop="7" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/d:Pool/d:Support/f:ObjectPool.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Core/d:Pool/d:Support/f:ObjectPool.cs" caret="918" fromTop="7" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:PackageInfo.cs" caret="3450" fromTop="20" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:Protocol.cs" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:config/f:FastDFS.config" caret="972" fromTop="11" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:config/f:FastDFS.config" caret="0" fromTop="0" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Service/f:FastDFSClient.cs" caret="4580" fromTop="12" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Service/f:FastDFSClient.cs" caret="5378" fromTop="28" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Properties/f:AssemblyInfo.cs" caret="847" fromTop="11" />
+      <File id="311D8B39-41F4-42AF-A47A-BD8AFF470398/d:Component/f:PackageInfo.cs" caret="0" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>
