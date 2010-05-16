@@ -1,0 +1,2 @@
+2010-02-03 15:12:23,633 | 线程:[4] | 级别:ERROR | 对象:FastDFS.Client.Component.Util | 信息: 服务器接收的命令不符合协议规定。接收协议为:48,期望协议为:10
+2010-02-03 15:12:23,633 | 线程:[4] | 级别:ERROR | 对象:FastDFS.Web._Default | 信息: <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>测试文件上传速度时发生异常：{0}服务器接收的命令不符合协议规定。接收协议为:48,期望协议为:10</format><args>{}</args></log4net.Error>

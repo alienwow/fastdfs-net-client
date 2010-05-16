@@ -1,0 +1,2 @@
+2010-02-03 10:32:54,236 | 线程:[4] | 级别:ERROR | 对象:FastDFS.Web._Default | 信息: <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>测试文件上传速度时发生异常：{0}无法将数据写入传输连接: 远程主机强迫关闭了一个现有的连接。。</format><args>{}</args></log4net.Error>
+2010-02-03 10:44:16,221 | 线程:[4] | 级别:ERROR | 对象:FastDFS.Web._Default | 信息: <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>测试文件上传速度时发生异常：{0}无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。</format><args>{}</args></log4net.Error>

@@ -1,0 +1,2 @@
+2010-02-02 15:56:36,522 | 线程:[4] | 级别:ERROR | 对象:FastDFS.Web._Default | 信息: <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>测试文件上传速度时发生异常：{0}索引超出了数组界限。</format><args>{}</args></log4net.Error>
+2010-02-02 16:00:34,036 | 线程:[4] | 级别:ERROR | 对象:FastDFS.Web._Default | 信息: <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>测试文件上传速度时发生异常：{0}索引超出了数组界限。</format><args>{}</args></log4net.Error>
