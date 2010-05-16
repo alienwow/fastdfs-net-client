@@ -1,0 +1,82 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{311D8B39-41F4-42AF-A47A-BD8AFF470398}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FastDFS.Client</RootNamespace>
+    <AssemblyName>FastDFS.Client</AssemblyName>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>key.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Component\HeaderInfo.cs" />
+    <Compile Include="Component\NameValuePair.cs" />
+    <Compile Include="Component\PackageInfo.cs" />
+    <Compile Include="Component\Protocol.cs" />
+    <Compile Include="Component\StorageClient.cs" />
+    <Compile Include="Component\StorageServerInfo.cs" />
+    <Compile Include="Component\TcpConnection.cs" />
+    <Compile Include="Component\TcpConnectionPoolManager.cs" />
+    <Compile Include="Component\TrackerClient.cs" />
+    <Compile Include="Component\Util.cs" />
+    <Compile Include="Core\ConfigReader.cs" />
+    <Compile Include="Core\Pool\IObjectPool.cs" />
+    <Compile Include="Core\Pool\IPoolableObjectFactory.cs" />
+    <Compile Include="Core\Pool\Support\ObjectPool.cs" />
+    <Compile Include="Core\Threading\ThreadContext.cs" />
+    <Compile Include="Service\FastDFSClient.cs" />
+    <Compile Include="Service\FastDFSService.cs" />
+    <Compile Include="Component\TcpConnectionFactory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="config\FastDFS.config" />
+    <Content Include="config\log4net.config" />
+    <None Include="Core\FastDFS.config" />
+    <None Include="key.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="COPYING-3_0.txt" />
+    <Content Include="lib\log4net.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties ZerocIce_HomeExpanded="C:\Ice-3.3.1" ZerocIce_Home="C:\Ice-3.3.1" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
