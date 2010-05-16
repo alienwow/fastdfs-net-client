@@ -1,0 +1,48 @@
+D:\5173\架构优化\src\FastDFS.Client\FastDFS.Client\bin\Debug\FastDFS.Client.dll
+D:\5173\架构优化\src\FastDFS.Client\FastDFS.Client\bin\Debug\FastDFS.Client.pdb
+D:\5173\架构优化\src\FastDFS.Client\FastDFS.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\5173\架构优化\src\FastDFS.Client\FastDFS.Client\obj\Debug\FastDFS.Client.dll
+D:\5173\架构优化\src\FastDFS.Client\FastDFS.Client\obj\Debug\FastDFS.Client.pdb
+D:\5173\架构优化\src\FastDFS.Client\FastDFS.Client\bin\Debug\log4net.dll
+D:\5173\架构优化\src\FastDFS.Client\FastDFS.Client\bin\Release\FastDFS.Client.dll
+D:\5173\架构优化\src\FastDFS.Client\FastDFS.Client\bin\Release\FastDFS.Client.pdb
+D:\5173\架构优化\src\FastDFS.Client\FastDFS.Client\bin\Release\log4net.dll
+D:\5173\架构优化\src\FastDFS.Client\FastDFS.Client\obj\Release\ResolveAssemblyReference.cache
+D:\5173\架构优化\src\FastDFS.Client\FastDFS.Client\obj\Release\FastDFS.Client.dll
+D:\5173\架构优化\src\FastDFS.Client\FastDFS.Client\obj\Release\FastDFS.Client.pdb
+D:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\bin\Release\FastDFS.Client.dll
+D:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\bin\Release\FastDFS.Client.pdb
+D:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\bin\Release\log4net.dll
+D:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\obj\Release\ResolveAssemblyReference.cache
+D:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\obj\Release\FastDFS.Client.dll
+D:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\obj\Release\FastDFS.Client.pdb
+E:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\bin\Release\FastDFS.Client.dll
+E:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\bin\Release\FastDFS.Client.pdb
+E:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\bin\Release\log4net.dll
+E:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\obj\Release\ResolveAssemblyReference.cache
+E:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\obj\Release\FastDFS.Client.dll
+E:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\obj\Release\FastDFS.Client.pdb
+E:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\bin\Debug\FastDFS.Client.dll
+E:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\bin\Debug\FastDFS.Client.pdb
+E:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\bin\Debug\log4net.dll
+E:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\obj\Debug\FastDFS.Client.dll
+E:\5173\架构优化\Aot\Dev\FastDFS-Client\FastDFS.Client\obj\Debug\FastDFS.Client.pdb
+E:\5173\架构优化\Aot\Dev\FastDFS-Client-2\FastDFS.Client\bin\Debug\FastDFS.Client.dll
+E:\5173\架构优化\Aot\Dev\FastDFS-Client-2\FastDFS.Client\bin\Debug\FastDFS.Client.pdb
+E:\5173\架构优化\Aot\Dev\FastDFS-Client-2\FastDFS.Client\bin\Debug\log4net.dll
+E:\5173\架构优化\Aot\Dev\FastDFS-Client-2\FastDFS.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\5173\架构优化\Aot\Dev\FastDFS-Client-2\FastDFS.Client\obj\Debug\FastDFS.Client.dll
+E:\5173\架构优化\Aot\Dev\FastDFS-Client-2\FastDFS.Client\obj\Debug\FastDFS.Client.pdb
+D:\5173\架构优化\Aot\Dev\FastDFS-Client-2\FastDFS.Client\bin\Debug\FastDFS.Client.dll
+D:\5173\架构优化\Aot\Dev\FastDFS-Client-2\FastDFS.Client\bin\Debug\FastDFS.Client.pdb
+D:\5173\架构优化\Aot\Dev\FastDFS-Client-2\FastDFS.Client\bin\Debug\log4net.dll
+D:\5173\架构优化\Aot\Dev\FastDFS-Client-2\FastDFS.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\5173\架构优化\Aot\Dev\FastDFS-Client-2\FastDFS.Client\obj\Debug\FastDFS.Client.dll
+D:\5173\架构优化\Aot\Dev\FastDFS-Client-2\FastDFS.Client\obj\Debug\FastDFS.Client.pdb
+D:\5173\架构优化\Open Source\FastDFS Net Client\FastDFS.Client\bin\Debug\FastDFS.Client.dll
+D:\5173\架构优化\Open Source\FastDFS Net Client\FastDFS.Client\bin\Debug\FastDFS.Client.pdb
+D:\5173\架构优化\Open Source\FastDFS Net Client\FastDFS.Client\bin\Debug\log4net.dll
+D:\5173\架构优化\Open Source\FastDFS Net Client\FastDFS.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\5173\架构优化\Open Source\FastDFS Net Client\FastDFS.Client\obj\Debug\FastDFS.Client.dll
+D:\5173\架构优化\Open Source\FastDFS Net Client\FastDFS.Client\obj\Debug\FastDFS.Client.pdb
