@@ -31,7 +31,7 @@ namespace FastDFS.Web
                 if (null != _logger)
                     _logger.InfoFormat("上传文件的大小为：{0}字节！", FileUpload1.PostedFile.ContentLength);
                 DateTime begin = DateTime.Now;
-                string filePath = FastDFSClient.Upload("test",FileUpload1.FileBytes, Tooklit.GetExtension(FileUpload1.FileName));
+                string filePath = FastDFSClient.Upload("g1",FileUpload1.FileBytes, Tooklit.GetExtension(FileUpload1.FileName));
                 TimeSpan span = DateTime.Now - begin;
                 if (null != _logger)
                     _logger.InfoFormat("上传文件Id为：{0}！路径为{1}!", guid, filePath);

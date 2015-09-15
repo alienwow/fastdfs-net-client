@@ -1,9 +1,0 @@
-2010-02-01 15:08:50,079 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Service.FastDFSService | 信息: FastDFS使用默认配置文件启动，默认配置文件路径为config/FastDFS.config!
-2010-02-01 15:08:50,096 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Service.FastDFSService | 信息: 停止FastDFS客户端服务，当前的生成批次为634006337300962824!
-2010-02-01 15:08:50,124 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Core.Pool.Support.ObjectPool`1 | 信息: 对象池已经创建，对象池长度为：30
-2010-02-01 15:08:50,129 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Core.Pool.Support.ObjectPool`1 | 信息: 对象池已经创建，对象池长度为：70
-2010-02-01 15:08:50,129 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Service.FastDFSService | 信息: FastDFS客户端服务启动成功!
-2010-02-01 15:08:50,129 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Web.Global | 信息: 应用程序启动！
-2010-02-01 15:09:20,668 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Service.FastDFSService | 信息: 停止FastDFS客户端服务，当前的生成批次为634006337300962824!
-2010-02-01 15:09:20,668 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Client.Service.FastDFSService | 信息: 停止FastDFS客户端服务，并清除连接池!
-2010-02-01 15:09:20,668 | 线程:[4] | 级别:INFO  | 对象:FastDFS.Web.Global | 信息: 关闭应用程序！
