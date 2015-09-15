@@ -1,3 +1,0 @@
-2015-09-15 10:58:57,475 | 线程:[7] | 级别:ERROR | 对象:FastDFS.Web._Default | 信息: <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>测试文件上传速度时发生异常：{0}无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。</format><args>{}</args></log4net.Error>
-2015-09-15 11:00:17,166 | 线程:[13] | 级别:ERROR | 对象:FastDFS.Client.Component.Util | 信息: ·t???÷?óê?μ??üá?2?·?o?D-òé1??¨?￡?óê?D-òé?a:100,?úí?D-òé?a:10
-2015-09-15 11:00:17,176 | 线程:[13] | 级别:ERROR | 对象:FastDFS.Web._Default | 信息: <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>测试文件上传速度时发生异常：{0}·t???÷?óê?μ??üá?2?·?o?D-òé1??¨?￡?óê?D-òé?a:100,?úí?D-òé?a:10</format><args>{}</args></log4net.Error>
